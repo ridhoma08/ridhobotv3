@@ -1,11 +1,11 @@
 const help = (prefix) => {
-	return `🔰 -----[ *MENU SadBotz* ]----- 🔰
+	return `🔰 -----[ *MENU RIDHOBOT* ]----- 🔰
 ┏━━━━━━━━━━━━━━━━━━━━┓
 ┃ *⚠️ NO SPAM! NO CALL!!! ⚠️*
 ┃      *LANGGAR AUTO BLOCK*
 ┣━━━━━━━━━━━━━━━━━━━━┛
-┃⊱❥ OWNER : *RAMLAN*
-┃⊱❥ AKTIF : *08:00-22:00 WIB*
+┃⊱❥ OWNER : *RidhoMaulanaAbdi*
+┃⊱❥ AKTIF : *09:00-22:00 WIB*
 ┃⊱❥ PREFIX : 「 ${prefix} 」
 ┃⊱❥ VERSION : 1.1
 ┣━━━━━━━━━━━━━━━━━━━━┛
